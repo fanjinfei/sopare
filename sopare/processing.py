@@ -19,7 +19,7 @@ under the License.
 
 import logging
 import audioop
-import prepare
+import sopare.prepare as prepare
 import time
 import io
 

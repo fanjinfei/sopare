@@ -32,7 +32,7 @@ Examples of use:
 
 
 Dependencies:
-
+  * sudo apt install portaudio19-dev
   * python
   * pyaudio (apt-get install python-pyaudio)
   * numpy (apt-get install python-numpy)

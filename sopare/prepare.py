@@ -18,7 +18,7 @@ under the License.
 """
 
 import numpy
-import filter
+import sopare.filter as filter
 import sopare.visual
 import sopare.util
 
